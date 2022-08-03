@@ -6,6 +6,7 @@
   + https://github.com/GREENHAT7/pxplan
   + https://www.iculture.cc/
   + https://mp.weixin.qq.com/s/leRhttp://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247490370&idx=1&sn=719080921a7e311bd25690d60798942f&chksm=974fbc7aa038356c446850cd263090fd59bbe7254ed3e3fbaf64c36954be56f0f37840783e22&mpshare=1&scene=1&srcid=0801zWb50PEPZYDSS0WUAY9S&sharer_sharetime=1659348367512&sharer_shareid=8f76dd87955f9af3596bd3ffb68214d6#rd
+  + https://github.com/z92g/ZentaoSqli
 
 **免责申明：此POC仅为互联网已公开POC整理，仅作学习研究用途，严禁用于任何非授权测试，请遵守法律底线！同时也请存在漏洞的厂家尽快查证并修复，以免造成财产损失！**
 
